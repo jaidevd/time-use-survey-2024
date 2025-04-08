@@ -10,6 +10,10 @@ and one for persons, and is available in:
 The Python script and a data dictionary used for cleaning and formatting the
 data is available for reuse and scrutiny.
 
+## Stata v118 datasets
+
+The Stata files for the HH and person datasets are available [here](https://drive.google.com/drive/folders/1crola9djynuiTRudvqMhGka0sBmAcpDf?usp=sharing).
+
 
 ## Note
 
